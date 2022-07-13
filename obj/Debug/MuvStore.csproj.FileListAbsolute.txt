@@ -1,0 +1,59 @@
+C:\Users\lauta\OneDrive\Documentos\Facultad\2do Año - 1er Cuatrimestre\POO\MuvStore\MuvStore\bin\Debug\MuvStore.exe.config
+C:\Users\lauta\OneDrive\Documentos\Facultad\2do Año - 1er Cuatrimestre\POO\MuvStore\MuvStore\bin\Debug\MuvStore.exe
+C:\Users\lauta\OneDrive\Documentos\Facultad\2do Año - 1er Cuatrimestre\POO\MuvStore\MuvStore\bin\Debug\MuvStore.pdb
+C:\Users\lauta\OneDrive\Documentos\Facultad\2do Año - 1er Cuatrimestre\POO\MuvStore\MuvStore\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\lauta\OneDrive\Documentos\Facultad\2do Año - 1er Cuatrimestre\POO\MuvStore\MuvStore\bin\Debug\Guna.UI2.dll
+C:\Users\lauta\OneDrive\Documentos\Facultad\2do Año - 1er Cuatrimestre\POO\MuvStore\MuvStore\obj\Debug\MuvStore.csproj.AssemblyReference.cache
+C:\Users\lauta\OneDrive\Documentos\Facultad\2do Año - 1er Cuatrimestre\POO\MuvStore\MuvStore\obj\Debug\MuvStore.csproj.SuggestedBindingRedirects.cache
+C:\Users\lauta\OneDrive\Documentos\Facultad\2do Año - 1er Cuatrimestre\POO\MuvStore\MuvStore\obj\Debug\MuvStore.Login.resources
+C:\Users\lauta\OneDrive\Documentos\Facultad\2do Año - 1er Cuatrimestre\POO\MuvStore\MuvStore\obj\Debug\MuvStore.Properties.Resources.resources
+C:\Users\lauta\OneDrive\Documentos\Facultad\2do Año - 1er Cuatrimestre\POO\MuvStore\MuvStore\obj\Debug\MuvStore.Start.resources
+C:\Users\lauta\OneDrive\Documentos\Facultad\2do Año - 1er Cuatrimestre\POO\MuvStore\MuvStore\obj\Debug\MuvStore.csproj.GenerateResource.cache
+C:\Users\lauta\OneDrive\Documentos\Facultad\2do Año - 1er Cuatrimestre\POO\MuvStore\MuvStore\obj\Debug\MuvStore.csproj.CoreCompileInputs.cache
+C:\Users\lauta\OneDrive\Documentos\Facultad\2do Año - 1er Cuatrimestre\POO\MuvStore\MuvStore\obj\Debug\MuvStore.csproj.CopyComplete
+C:\Users\lauta\OneDrive\Documentos\Facultad\2do Año - 1er Cuatrimestre\POO\MuvStore\MuvStore\obj\Debug\MuvStore.exe
+C:\Users\lauta\OneDrive\Documentos\Facultad\2do Año - 1er Cuatrimestre\POO\MuvStore\MuvStore\obj\Debug\MuvStore.pdb
+C:\Users\lauta\OneDrive\Documentos\Facultad\2do Año - 1er Cuatrimestre\POO\MuvStore\MuvStore\obj\Debug\MuvStore.Forms.Comprar.resources
+C:\Users\lauta\OneDrive\Documentos\Facultad\2do Año - 1er Cuatrimestre\POO\MuvStore\MuvStore\obj\Debug\MuvStore.Forms.Vender.resources
+C:\Users\lauta\OneDrive\Documentos\Facultad\2do Año - 1er Cuatrimestre\POO\MuvStore\MuvStore\obj\Debug\MuvStore.Forms.Listar.resources
+C:\Users\lauta\OneDrive\Documentos\Facultad\2do Año - 1er Cuatrimestre\POO\MuvStore\MuvStore\obj\Debug\uai_proyect.MainForm.resources
+C:\Users\lauta\OneDrive\Escritorio\MuvStore\MuvStore\bin\Debug\MuvStore.exe.config
+C:\Users\lauta\OneDrive\Escritorio\MuvStore\MuvStore\bin\Debug\MuvStore.exe
+C:\Users\lauta\OneDrive\Escritorio\MuvStore\MuvStore\bin\Debug\MuvStore.pdb
+C:\Users\lauta\OneDrive\Escritorio\MuvStore\MuvStore\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\lauta\OneDrive\Escritorio\MuvStore\MuvStore\bin\Debug\Guna.UI2.dll
+C:\Users\lauta\OneDrive\Escritorio\MuvStore\MuvStore\obj\Debug\MuvStore.csproj.AssemblyReference.cache
+C:\Users\lauta\OneDrive\Escritorio\MuvStore\MuvStore\obj\Debug\MuvStore.csproj.SuggestedBindingRedirects.cache
+C:\Users\lauta\OneDrive\Escritorio\MuvStore\MuvStore\obj\Debug\MuvStore.Forms.Comprar.resources
+C:\Users\lauta\OneDrive\Escritorio\MuvStore\MuvStore\obj\Debug\MuvStore.Forms.Vender.resources
+C:\Users\lauta\OneDrive\Escritorio\MuvStore\MuvStore\obj\Debug\MuvStore.Forms.Listar.resources
+C:\Users\lauta\OneDrive\Escritorio\MuvStore\MuvStore\obj\Debug\MuvStore.Login.resources
+C:\Users\lauta\OneDrive\Escritorio\MuvStore\MuvStore\obj\Debug\uai_proyect.MainForm.resources
+C:\Users\lauta\OneDrive\Escritorio\MuvStore\MuvStore\obj\Debug\MuvStore.Properties.Resources.resources
+C:\Users\lauta\OneDrive\Escritorio\MuvStore\MuvStore\obj\Debug\MuvStore.Start.resources
+C:\Users\lauta\OneDrive\Escritorio\MuvStore\MuvStore\obj\Debug\MuvStore.csproj.GenerateResource.cache
+C:\Users\lauta\OneDrive\Escritorio\MuvStore\MuvStore\obj\Debug\MuvStore.csproj.CoreCompileInputs.cache
+C:\Users\lauta\OneDrive\Escritorio\MuvStore\MuvStore\obj\Debug\MuvStore.csproj.CopyComplete
+C:\Users\lauta\OneDrive\Escritorio\MuvStore\MuvStore\obj\Debug\MuvStore.exe
+C:\Users\lauta\OneDrive\Escritorio\MuvStore\MuvStore\obj\Debug\MuvStore.pdb
+C:\Users\lauta\OneDrive\Escritorio\MuvStore\MuvStore\obj\Debug\MuvStore.Forms.Modificar.resources
+C:\Users\Juanm\Desktop\MuvStore Respaldo 2\obj\Debug\MuvStore.csproj.AssemblyReference.cache
+C:\Users\Juanm\Desktop\MuvStore Respaldo 2\obj\Debug\MuvStore.csproj.SuggestedBindingRedirects.cache
+C:\Users\Juanm\Desktop\MuvStore Respaldo 2\obj\Debug\MuvStore.Forms.Comprar.resources
+C:\Users\Juanm\Desktop\MuvStore Respaldo 2\obj\Debug\MuvStore.Forms.Modificar.resources
+C:\Users\Juanm\Desktop\MuvStore Respaldo 2\obj\Debug\MuvStore.Forms.Vender.resources
+C:\Users\Juanm\Desktop\MuvStore Respaldo 2\obj\Debug\MuvStore.Forms.Listar.resources
+C:\Users\Juanm\Desktop\MuvStore Respaldo 2\obj\Debug\MuvStore.Login.resources
+C:\Users\Juanm\Desktop\MuvStore Respaldo 2\obj\Debug\uai_proyect.MainForm.resources
+C:\Users\Juanm\Desktop\MuvStore Respaldo 2\obj\Debug\MuvStore.Properties.Resources.resources
+C:\Users\Juanm\Desktop\MuvStore Respaldo 2\obj\Debug\MuvStore.Start.resources
+C:\Users\Juanm\Desktop\MuvStore Respaldo 2\obj\Debug\MuvStore.csproj.GenerateResource.cache
+C:\Users\Juanm\Desktop\MuvStore Respaldo 2\obj\Debug\MuvStore.csproj.CoreCompileInputs.cache
+C:\Users\Juanm\Desktop\MuvStore Respaldo 2\obj\Debug\MuvStore.exe
+C:\Users\Juanm\Desktop\MuvStore Respaldo 2\obj\Debug\MuvStore.pdb
+C:\Users\Juanm\Desktop\MuvStore Respaldo 2\bin\Debug\MuvStore.exe.config
+C:\Users\Juanm\Desktop\MuvStore Respaldo 2\bin\Debug\MuvStore.exe
+C:\Users\Juanm\Desktop\MuvStore Respaldo 2\bin\Debug\MuvStore.pdb
+C:\Users\Juanm\Desktop\MuvStore Respaldo 2\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Juanm\Desktop\MuvStore Respaldo 2\bin\Debug\Guna.UI2.dll
+C:\Users\Juanm\Desktop\MuvStore Respaldo 2\obj\Debug\MuvStore.csproj.CopyComplete
